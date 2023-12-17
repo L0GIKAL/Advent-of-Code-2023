@@ -46,5 +46,5 @@ def answer2(file):
         print(total)
 
 
-answer("/home/luc1d/AdventOfCode/day2/input.txt", {"red":12, "green": 13, "blue": 14})
-answer2("/home/luc1d/AdventOfCode/day2/input.txt")
+answer("path_to_file", {"red":12, "green": 13, "blue": 14})
+answer2("path_to_file")
